@@ -1,4 +1,4 @@
 # PROLOG
 
-Colección de ejercicios básicos en Python que cubren funciones puras,
+Colección de  scripts básicos en Python que cubren funciones puras,
 recursividad y programación funcional con `map`, `filter` y `reduce`.
