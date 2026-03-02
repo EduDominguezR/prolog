@@ -1,2 +1,3 @@
 # prolog
-ejercicios para la materia de programacion logica utilizando python 
+Colección de ejercicios básicos en Python que cubren funciones puras,
+recursividad y programación funcional con `map`, `filter` y `reduce`.
